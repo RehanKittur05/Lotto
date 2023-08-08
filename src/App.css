@@ -7,6 +7,7 @@ body {
 
 nav {
   background-color: #ff1d58;
+  box-shadow: 3px 2px white;
 }
 
 nav ul {
